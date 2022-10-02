@@ -215,5 +215,17 @@ html,body{
         .image2>h2{
             margin-left: 20px;
         }
+        #third{
+            height: 60vh;
+        }
+        .image3{
+            left: 0;
+            width: 420px;
+            height: 430px;
+            bottom: 60px;
+        }
+        .image2>h2{
+            margin-left: 20px;
+        }
         
 }
